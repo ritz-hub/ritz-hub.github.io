@@ -1,2 +1,2 @@
 # ritz-hub.github.io
-Web Design 
+projects i learned
